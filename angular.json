@@ -33,7 +33,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/theme.scss"
+              "src/m3-theme.scss"
             ],
             "scripts": []
           },
@@ -93,7 +93,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/theme.scss"
+              "src/m3-theme.scss"
             ],
             "scripts": []
           }
